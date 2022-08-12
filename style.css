@@ -223,7 +223,7 @@ body {
     background-image: url("./imagenes/promo_mbp13__buwssod6c8vm_large.jpeg");
     background-repeat: no-repeat;
     background-position: 50%;
-    background-size: 2000px 600px;
+    background-size: 1500px 500px;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -243,6 +243,66 @@ body {
 #text-macbook-pro13 {
     width: 50%;
 }
+
+#banner-watch {
+    background-color: #fbfbfd;
+    background-image: url("./imagenes/promo_watch_lte__djeaso7ukrsm_large.jpeg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-position-y: top;
+    background-size: 1500px 500px;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1vw;
+    margin: 1.5vh 0;
+}
+
+.whatch {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 50vw;
+}
+
+#text-watch {
+    width: 10%;
+    height: 20%;
+}
+
+#banner-iPad-air {
+    background-color: #fbfbfd;
+    background-image: url("./imagenes/promo_ipadair_avail__ferd4bfpcdm6_large.jpeg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-position-y: top;
+    background-size: 2000px 500px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1vw;
+    margin: 1.5vh 0;
+}
+
+.ipad-air {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 6vw;
+}
+
+#text-ipad {
+    font-size: 15px;
+    line-height: 1.16667;
+    text-align: center;
+    letter-spacing: 0.009em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+        "Arial", sans-serif;
+}
+
+
 
 .products-highlights {
     border: 1px solid yellowgreen;
