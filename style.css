@@ -194,7 +194,6 @@ body {
 }
 
 .iphone13pro {
-    border: 1px solid rgb(204, 255, 0);
     background-image: url("./imagenes/promo_iphone13pro_avail__beadms4ldidu_large.jpeg");
     background-repeat: no-repeat;
     background-position: 20%;
@@ -204,7 +203,6 @@ body {
 }
 
 .macbookpro {
-    border: 1px solid rgb(255, 111, 0);
     background-image: url("./imagenes/promo_mbp13__buwssod6c8vm_large.jpeg");
     background-repeat: no-repeat;
     background-position: 40px;
@@ -220,7 +218,6 @@ h2 {
 }
 
 .watch {
-    border: 1px solid rgb(251, 0, 255);
     background-image: url("./imagenes/promo_watch_lte__djeaso7ukrsm_large.jpeg");
     background-repeat: no-repeat;
     background-color: #fbfbfd;
@@ -236,7 +233,6 @@ h2 {
 }
 
 .iPadair {
-    border: 1px solid rgb(0, 255, 47);
     background-image: url("./imagenes/promo_ipadair_avail__ferd4bfpcdm6_large.jpeg");
     background-repeat: no-repeat;
     background-color: black;
@@ -253,7 +249,6 @@ h2 {
 }
 
 .apple-card {
-    border: 1px solid rgb(0, 255, 234);
     background-image: url("./imagenes/tile__cauwwcyyn9hy_large.jpg");
     background-repeat: no-repeat;
     background-color: #fbfbfd;
@@ -269,7 +264,6 @@ h2 {
 }
 
 .airpods-pro {
-    border: 1px solid rgb(231, 168, 168);
     background-image: url("./imagenes/tile__cauwwcyyn9hy_large\ \(1\).jpg");
     background-repeat: no-repeat;
     background-color: #000000;
